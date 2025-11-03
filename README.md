@@ -38,15 +38,11 @@ A zener diode is heavily doped p-n junction diode, specially made to operate in 
 REGULATION CHARACTERISTICS:
 V-I & REGULATION CHARACTERISTICS:
 
-![BEEE_Exp5_page-0001](https://github.com/user-attachments/assets/d3188e45-b465-4c76-9931-38dfd659b545)
+![1](https://github.com/user-attachments/assets/17e17ca3-abc7-4268-bd00-6e5df8f56a93)
+![2](https://github.com/user-attachments/assets/77ca4454-1014-4a5b-8f92-7d4a70a1241c)
+![3](https://github.com/user-attachments/assets/3ea98b9c-e198-431e-8935-167b670ad1a7)
+![4](https://github.com/user-attachments/assets/699e5117-74c3-473e-8a88-ee6427ba306f)
 
-![BEEE_Exp5_page-0002](https://github.com/user-attachments/assets/fb2c8d06-5118-4e05-9b6a-5a0fdad9f4c0)
-
-![BEEE_Exp5_page-0003](https://github.com/user-attachments/assets/acaaf3ff-5c94-46e3-a3b3-7c85c1f6ef88)
-
-![BEEE_Exp5_page-0004](https://github.com/user-attachments/assets/bf33644f-0f10-43c1-8e92-f8964f21392a)
-
-![BEEE_Exp5_page-0005](https://github.com/user-attachments/assets/dcb052b3-b5a4-4c33-9d0a-881e8a8091e7)
 
 
 ## PRECAUTIONS:
